@@ -1,0 +1,3 @@
+﻿  PingPong.cpp
+C:\Users\tyler\Dropbox\My PC (DESKTOP-EEAFFKA)\Desktop\Code Stuff\C++ openGL\PingPong\PingPong\PingPong.cpp(122,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PingPong.vcxproj -> C:\Users\tyler\Dropbox\My PC (DESKTOP-EEAFFKA)\Desktop\Code Stuff\C++ openGL\PingPong\Debug\PingPong.exe
